@@ -1,2 +1,2 @@
 # react_poject
-hello world this is nipun rai
+added new text
